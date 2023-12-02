@@ -1,0 +1,5 @@
+﻿  Kr1.cpp
+  Triangle.cpp
+D:\MyProjects\Ucheba\4kurs\SystemProgramming\Kr1\Kr1\Triangle.cpp(37,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Kr1.vcxproj -> D:\MyProjects\Ucheba\4kurs\SystemProgramming\Kr1\x64\Debug\Kr1.exe
